@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'gbt';
+					src: url('/wp-content/uploads/useanyfont/180313100849gbt.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.gbt{font-family: 'gbt' !important;}
+
+						h1, h2, h3, h4, h5, h6{
+					font-family: 'gbt' !important;
+				}
+		
